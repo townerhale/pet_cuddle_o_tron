@@ -6,4 +6,4 @@ Implement a serverless application using Step Functions, Lambda, SNS, SES, Api G
 ![alt text](https://github.com/townerhale/pet_cuddle_o_tron/blob/master/arch-design.png)
 
 # Final product
-![alt text] https://github.com/townerhale/pet_cuddle_o_tron/blob/master/demo.png
+![alt text](https://github.com/townerhale/pet_cuddle_o_tron/blob/master/demo.png)
